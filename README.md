@@ -2,8 +2,10 @@
 website-checker
 
 ## Getting Started
+1. create .env.local file in project root folder. (ones time)
+2. Copy the contents of the file .env to .env.local and put your variables
 
-First, run the development server:
+## run the development server:
 
 ```bash
 npm run dev
